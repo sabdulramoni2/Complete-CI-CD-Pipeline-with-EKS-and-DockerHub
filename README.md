@@ -1,7 +1,7 @@
 # Complete CI/CD Pipeline with EKS and DockerHub
 
 ## **Project Overview**
-This project demonstrates how to integrate deploying to kubernetes cluster into the CI/CD pipeline. 
+This project demonstrates how we build our Java application and push to dockewrhub. Then deploy the application to the EKS cluster. 
 
 ---
   
