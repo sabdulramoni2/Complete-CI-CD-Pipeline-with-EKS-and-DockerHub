@@ -7,7 +7,7 @@ This project demonstrates how we build our Java application and push to dockewrh
   
 ## **Feature**
 
-### **Complete CI/CD Pipeline with DockerHubr**
+### **Complete CI/CD Pipeline with DockerHub**
 
 - Created Deployment and Service for App deployment
 - Adjust Jenkinsfile to set environment variables with envsubst
