@@ -1,8 +1,7 @@
 # Complete CI/CD Pipeline with EKS and DockerHub
 
 ## **Project Overview**
-Project Purpose: Deploy a complete Jenkins CI/CD pipeline with stages to automatically increment a Java application version, use Apache Maven to build a Java artifact, build and push a Docker image to a private AWS ECR Docker repository, and commit the updated Java application version to GitLab using Git.
-This project provides a comprehensive walkthrough of writing a Jenkinsfile and accounts for the necessary prerequisites prior to additional Groovy code being written. A complete Jenkins CI/CD pipeline is successfully executed at the project’s conclusion.
+Project Purpose: Deploy a complete Jenkins CI/CD pipeline with stages to automatically increment a Java application version, use Apache Maven to build a Java artifact, build and push a Docker image to Docker hub, and commit the updated Java application version to Gitub using Git.
 
 ---
   
