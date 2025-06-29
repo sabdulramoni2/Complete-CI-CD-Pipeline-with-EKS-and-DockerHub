@@ -4,7 +4,7 @@
 
 
 ## **Project Overview**
-Project Purpose: Deploy a complete Jenkins CI/CD pipeline with stages to automatically increment a Java application version, use Apache Maven to build a Java artifact, build and push a Docker image to Docker hub, and commit the updated Java application version to Gitub using Git.
+Project Purpose: Deploy a complete Jenkins CI/CD pipeline with stages to automatically increment a Java application version, use Apache Maven to build a Java artifact, build and push a Docker image to Docker hub, and commit the updated Java application version to GitHub using Git.
 
 ---
   
